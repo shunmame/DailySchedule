@@ -1,7 +1,5 @@
 <template>
-  <div id="app">
-    <chart></chart>
-  </div>
+  <chart></chart>
 </template>
 
 <script>
